@@ -1,0 +1,17 @@
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\bin\Debug\net9.0\FastFoodX.Infrastructure.deps.json
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\bin\Debug\net9.0\FastFoodX.Infrastructure.runtimeconfig.json
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\bin\Debug\net9.0\FastFoodX.Infrastructure.dll
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\bin\Debug\net9.0\FastFoodX.Infrastructure.pdb
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\FastFoodX.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\FastFoodX.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\FastFoodX.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\FastFoodX.Infrastructure.AssemblyInfo.cs
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\FastFoodX.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\FastFoodX.Infrastructure.dll
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\refint\FastFoodX.Infrastructure.dll
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\FastFoodX.Infrastructure.pdb
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\FastFoodX.Infrastructure.genruntimeconfig.cache
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\ref\FastFoodX.Infrastructure.dll
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\bin\Debug\net9.0\FastFoodX.Core.dll
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\bin\Debug\net9.0\FastFoodX.Core.pdb
+C:\Users\Moham\FastFoodX\FastFoodX.Infrastructure\obj\Debug\net9.0\FastFood.B6F4A981.Up2Date

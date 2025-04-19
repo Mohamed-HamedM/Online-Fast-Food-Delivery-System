@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JhUOeSFyEPFpVKJ7EHC6yifBtVwQZlb8KxX+Hwd07kY=",
+  "Source": "FastFoodX.API",
+  "BasePath": "_content/FastFoodX.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

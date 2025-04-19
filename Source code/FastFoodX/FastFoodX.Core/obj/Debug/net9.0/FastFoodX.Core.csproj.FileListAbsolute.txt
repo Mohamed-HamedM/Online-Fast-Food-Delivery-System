@@ -1,0 +1,11 @@
+C:\Users\Moham\FastFoodX\FastFoodX.Core\bin\Debug\net9.0\FastFoodX.Core.deps.json
+C:\Users\Moham\FastFoodX\FastFoodX.Core\bin\Debug\net9.0\FastFoodX.Core.dll
+C:\Users\Moham\FastFoodX\FastFoodX.Core\bin\Debug\net9.0\FastFoodX.Core.pdb
+C:\Users\Moham\FastFoodX\FastFoodX.Core\obj\Debug\net9.0\FastFoodX.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\FastFoodX\FastFoodX.Core\obj\Debug\net9.0\FastFoodX.Core.AssemblyInfoInputs.cache
+C:\Users\Moham\FastFoodX\FastFoodX.Core\obj\Debug\net9.0\FastFoodX.Core.AssemblyInfo.cs
+C:\Users\Moham\FastFoodX\FastFoodX.Core\obj\Debug\net9.0\FastFoodX.Core.csproj.CoreCompileInputs.cache
+C:\Users\Moham\FastFoodX\FastFoodX.Core\obj\Debug\net9.0\FastFoodX.Core.dll
+C:\Users\Moham\FastFoodX\FastFoodX.Core\obj\Debug\net9.0\refint\FastFoodX.Core.dll
+C:\Users\Moham\FastFoodX\FastFoodX.Core\obj\Debug\net9.0\FastFoodX.Core.pdb
+C:\Users\Moham\FastFoodX\FastFoodX.Core\obj\Debug\net9.0\ref\FastFoodX.Core.dll
